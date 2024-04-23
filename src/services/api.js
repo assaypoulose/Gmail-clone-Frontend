@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = 'http://localhost:8000';
+
+const API_URL = 'https://gmail-clone-backend-xpxj.onrender.com';
 
 
 const API_GMAIL = async (urlObject, payload, type) => {
